@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "AggregateR"]
+	path = AggregateR
+	url = https://github.com/matthbogaert/aggregater
+[submodule "DecorateR"]
+	path = DecorateR
+	url = https://github.com/matthbogaert/decorater
